@@ -1,3 +1,4 @@
 BUG tee
 BUG TEE
+TEE BUG
 
